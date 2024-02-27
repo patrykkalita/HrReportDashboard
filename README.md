@@ -8,6 +8,6 @@ The following technologies were used to create this dashboard
 - SQL Server
 - Power BI
 
-![Dashboard screen 1](Screeens/dashborad1.png)
+![Dashboard screen 1](HrReportDashboard/Screeens/dashborad1.png)
 
-![Dashboard screen 2](Screeens/dashborad2.png)
+![Dashboard screen 2](HrReportDashboard/Screeens/dashborad2.png)
